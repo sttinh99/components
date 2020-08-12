@@ -1,0 +1,11 @@
+.header{
+    width: 1000px;
+    margin: auto;
+}
+.header .block{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;  
+    justify-content: space-evenly;
+}
