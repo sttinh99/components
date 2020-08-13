@@ -8,7 +8,7 @@ function Header(){
             <div className="block">
                 <a className="back">Go back</a>
                 <img className="logo" src={logoCodersX}/>
-                <button className="sign-up">SignUp</button>
+                <button className="btn btn-outline-dark">SignUp</button>
             </div>
             <LoginForm/>
         </div>
