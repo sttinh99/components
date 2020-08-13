@@ -1,6 +1,7 @@
 import React from 'react';
 import logoCodersX from '../logoCodersX.png';
 import './Header.css'
+import LoginForm from './LoginForm'
 function Header(){
     return(
         <div className="header">
@@ -9,6 +10,7 @@ function Header(){
                 <img className="logo" src={logoCodersX}/>
                 <button className="sign-up">SignUp</button>
             </div>
+            <LoginForm/>
         </div>
     );
 }

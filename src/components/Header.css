@@ -1,6 +1,11 @@
 .header{
-    width: 1000px;
-    margin: auto;
+    width: 700px;
+    height: 600px;
+    margin:auto;
+    margin-top: 60px;
+    padding-top: 20px;
+    background: white;
+    box-shadow: white;
 }
 .header .block{
     width: 80%;
